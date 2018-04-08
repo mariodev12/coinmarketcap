@@ -1,6 +1,7 @@
 ![Image of Coinmarketcap Reactjs](https://i.imgur.com/isl3wwa.png)
 
-##Why this?
+Introduction
+------------
 
 I'm trying to learn ReactJS as much as posible so making a coinmarketcap like website, so pretty exciting for me because I'm into blockchain and cryptocurrency.
 
