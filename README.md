@@ -85,7 +85,7 @@ Roadmap
 - [ ] Real time data
 - [ ] Redux
 - [ ] Portfolio
-- [ ] more features.
+- [ ] fix a bunch of bugs
 
 Thanks
 ------
