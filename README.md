@@ -24,7 +24,7 @@ After that start the development server for reactjs inside the folder, coinmarke
 
 npm start.
 
-Used APIS.
+API.
 ----------
 
 - [Coinmarketcap](https://coinmarketcap.com/api/).
@@ -74,6 +74,14 @@ coinmarketcap/
     logo.svg
     registerServiceWorker.js
 ```
+
+Roadmap
+-------
+
+- [ ] Real time data
+- [ ] Redux
+- [ ] Portfolio
+- [ ] more features.
 
 Thanks
 ------
