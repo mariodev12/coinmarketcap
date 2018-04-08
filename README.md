@@ -3,7 +3,7 @@
 Introduction
 ------------
 
-I'm trying to learn ReactJS as much as posible so making a coinmarketcap like website, so pretty exciting for me because I'm into blockchain and cryptocurrency.
+I'm trying to learn ReactJS as much as posible so making a coinmarketcap like website is pretty exciting for me because I'm into blockchain and cryptocurrency.
 
 This development is still in early stages but if you want to test it out follow this steps.
 
