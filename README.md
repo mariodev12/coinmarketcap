@@ -12,11 +12,13 @@ This development is still in early stages but if you want to test it out follow 
 Installation.
 -------------
 
-git clone https://github.com/mariodev12/coinmarketcap.git <br>
-cd coinmarketcap <br>
-npm install <br>
-cd /server <br>
+```
+git clone https://github.com/mariodev12/coinmarketcap.git 
+cd coinmarketcap 
+npm install 
+cd /server 
 npm install
+```
 
 Once everything is installed start the server made with NodeJS inside the server folder.
 
