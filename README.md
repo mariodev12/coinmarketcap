@@ -7,13 +7,15 @@ I'm trying to learn ReactJS as much as posible so making a coinmarketcap like we
 
 This development is still in early stages but if you want to test it out follow this steps.
 
+(I'll improve the design :P)
+
 Installation.
 -------------
 
-git clone https://github.com/mariodev12/coinmarketcap.git
-cd coinmarketcap
-npm install
-cd /server
+git clone https://github.com/mariodev12/coinmarketcap.git <br>
+cd coinmarketcap <br>
+npm install <br>
+cd /server <br>
 npm install
 
 Once everything is installed start the server made with NodeJS inside the server folder.
