@@ -1,0 +1,24 @@
+.header {
+    color: white;
+    margin-bottom: 20px;
+}
+
+/* shadow bottom */
+.shadow-bottom {
+    -webkit-box-shadow: 0 8px 6px -6px #F3C98B;
+	   -moz-box-shadow: 0 8px 6px -6px #F3C98B;
+	        box-shadow: 0 8px 6px -6px #F3C98B;
+}
+
+/* colors */
+.blue {
+    background-color: #9CF6F6;
+}
+
+/* weight fonts */
+.bolder {
+    font-weight: bolder;
+}
+.bold {
+    font-weight: bold;
+}
