@@ -75,7 +75,7 @@ class Content extends Component {
     render(){
         console.log(this.props)
         return (
-            <div className="container-fluid">
+            <div className="container-home">
                 <Table>
                     <thead>
                         <tr>
