@@ -37,7 +37,7 @@ class Content extends Component {
     convertSpace = (string) => {
         return string.split(' ').join('-')
     }
-
+    /*
     renderRow(){
         return this.state.data.map((item, k) => {
             return (
@@ -56,6 +56,7 @@ class Content extends Component {
             )
         })
     }
+    */
     render(){
         return (
             <div className="container-home">
